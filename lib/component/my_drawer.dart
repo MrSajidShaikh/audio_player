@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:music_player_app/utils/colors.dart';
 import 'package:music_player_app/view/about_screen.dart';
 import 'package:music_player_app/view/favourite_screen.dart';
 
