@@ -1,8 +1,6 @@
 import 'dart:async';
-
 import 'package:flutter/material.dart';
 import 'package:music_player_app/view/home_screen.dart';
-
 import '../utils/colors.dart';
 
 class SplashScreen extends StatelessWidget {
