@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:music_player_app/modal/music_modal.dart';
-import 'package:music_player_app/view/component/my_text_field.dart';
 import 'package:provider/provider.dart';
 import 'package:shimmer/shimmer.dart';
-
+import '../component/my_text_field.dart';
 import '../provider/music_provider.dart';
 import '../utils/colors.dart';
 import 'music_screen.dart';

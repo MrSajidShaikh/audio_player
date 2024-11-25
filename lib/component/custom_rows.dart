@@ -2,9 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:music_player_app/modal/music_modal.dart';
 import 'package:music_player_app/provider/music_provider.dart';
 import 'package:provider/provider.dart';
-
 import '../../utils/colors.dart';
-import '../music_screen.dart';
+import '../view/music_screen.dart';
 
 class CustomRows extends StatelessWidget {
   final String text;

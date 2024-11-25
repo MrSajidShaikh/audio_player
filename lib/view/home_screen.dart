@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:music_player_app/provider/music_provider.dart';
-import 'package:music_player_app/view/component/custom_bottom_navigation_bar.dart';
-import 'package:music_player_app/view/component/custom_rows.dart';
-import 'package:music_player_app/view/component/my_drawer.dart';
-import 'package:music_player_app/view/component/shimmer_effect.dart';
 import 'package:music_player_app/view/search_screen.dart';
 import 'package:provider/provider.dart';
+import '../component/custom_bottom_navigation_bar.dart';
+import '../component/custom_rows.dart';
+import '../component/my_drawer.dart';
+import '../component/shimmer_effect.dart';
 import '../utils/colors.dart';
 
 class HomeScreen extends StatefulWidget {
