@@ -36,10 +36,10 @@ class SplashScreen extends StatelessWidget {
           Container(
             height: 200,
             decoration: const BoxDecoration(
-              shape: BoxShape.circle,
+              shape: BoxShape.rectangle,
               image: DecorationImage(
                 image: NetworkImage(
-                    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_256j7yiq4HBHlxy_WbOaqjWRZp_atSwm0A&s'),
+                    'https://www.technomag.fr/wp-content/uploads/2024/02/Logo-green-musicians-transparant--1024x576.png'),
               ),
             ),
           ),
